@@ -1,7 +1,7 @@
 {
   "name": "mtravel",
   "version": "0.1.0",
-  "homepage": "https://gio-oig.github.io/mtravel-front",
+  "homepage": "https://gio-oig.github.io/mtravel",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
