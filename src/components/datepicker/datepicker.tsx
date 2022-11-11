@@ -8,7 +8,7 @@ const DPicker = ({ selected, onChange, ...rest }: DPickerProps) => {
   return (
     <DatePicker
       className="date-picker"
-      {...(selected ? { selected } : null)}
+      autoComplete="off"
       selected={selected}
       placeholderText="select date"
       minDate={new Date()}
