@@ -1,0 +1,16 @@
+.form-container {
+  margin: auto;
+  max-width: 600px;
+}
+
+.form-item-container {
+  display: flex;
+  flex-direction: column;
+
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.form-item-react-select {
+  width: 100%;
+}
